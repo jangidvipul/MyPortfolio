@@ -21,23 +21,19 @@ Welcome to my personal portfolio website! This project showcases my work, skills
 
 ## 📁 Folder Structure
 
-MyPortfolio/
-├── index.html          # Main HTML file
-├── README.md           # Project documentation
-├── assets/             # All static resources
-│   ├── css/
-│   │   └── styles.css  # Compiled CSS file
-│   ├── img/            # Images used in the portfolio
-│   │   ├── FoodVilla.png
-│   │   ├── Netflix_India.png
-│   │   ├── profile1.jpeg
-│   │   ├── profile2.png
-│   │   ├── RedWebStore.png
-│   │   ├── todo.png
-│   │   ├── weatherApp.png
-│   │   ├── work1.jpg … work6.jpg
-│   ├── js/
-│   │   └── main.js     # JavaScript functionality
-│   └── scss/
-│       └── styles.scss # SCSS source file
+
+---
+
+## 📑 File & Folder Description
+
+| File/Folder       | Description |
+|-------------------|-------------|
+| `index.html`      | Main entry point of the portfolio website |
+| `README.md`       | Project documentation file |
+| `assets/css/`     | Contains compiled CSS stylesheets |
+| `assets/img/`     | Portfolio images, project screenshots, profile pics, etc. |
+| `assets/js/`      | JavaScript files for interactivity and functionality |
+| `assets/scss/`    | SCSS source file for modular and maintainable styling |
+| `structure.txt`   | Auto-generated folder structure for reference |
+
 
