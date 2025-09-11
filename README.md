@@ -20,3 +20,24 @@ Welcome to my personal portfolio website! This project showcases my work, skills
 - SVG for blob-shaped profile image
 
 ## 📁 Folder Structure
+
+MyPortfolio/
+├── index.html          # Main HTML file
+├── README.md           # Project documentation
+├── assets/             # All static resources
+│   ├── css/
+│   │   └── styles.css  # Compiled CSS file
+│   ├── img/            # Images used in the portfolio
+│   │   ├── FoodVilla.png
+│   │   ├── Netflix_India.png
+│   │   ├── profile1.jpeg
+│   │   ├── profile2.png
+│   │   ├── RedWebStore.png
+│   │   ├── todo.png
+│   │   ├── weatherApp.png
+│   │   ├── work1.jpg … work6.jpg
+│   ├── js/
+│   │   └── main.js     # JavaScript functionality
+│   └── scss/
+│       └── styles.scss # SCSS source file
+
